@@ -28,4 +28,22 @@ Rajiv Gandhi International Airport is closest to the Museum
 
 [Go to AboutMe.md file](AboutMe.md)
 
+****
+
+ # creating Tables
+
+ This table is about the four Cities that I would recommend someone to visit. <br>
+
+ | City  |  LocationToVisit |   Time to spend  |
+ | --- |  ---  | :---: |
+ | Hyderabad | Charminar |  3 hours |
+ | Mysore | Mysore Palace |  2 hours |
+ | Bangalore | Wonderla | 4 hours | 
+
+ 
+
+
+
+
+
 
