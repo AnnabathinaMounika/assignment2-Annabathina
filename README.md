@@ -26,7 +26,7 @@ Rajiv Gandhi International Airport is closest to the Museum
     * Mecca Masjid
     * ISKCON <br>
 
-[Go to AboutMe.md file](AboutMe.md)
+[Go to AboutMe.md](AboutMe.md)
 
 ****
 
@@ -39,6 +39,22 @@ Rajiv Gandhi International Airport is closest to the Museum
  | Hyderabad | Charminar |  3 hours |
  | Mysore | Mysore Palace |  2 hours |
  | Bangalore | Wonderla | 4 hours | 
+
+
+ *****
+
+
+ ## Using Quotes for this section
+
+
+>  A winner is a dreamer who never gave up - *Nelson MANDELA*
+> 
+> A Positive mindset brings positive things - *PHILIPP REITER*
+>> The purpose of our lives is to be happy - *DALAI LAMA*
+
+
+
+
 
  
 
