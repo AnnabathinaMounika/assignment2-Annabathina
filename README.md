@@ -52,6 +52,27 @@ Rajiv Gandhi International Airport is closest to the Museum
 > A Positive mindset brings positive things - *PHILIPP REITER*
 >> The purpose of our lives is to be happy - *DALAI LAMA*
 
+****
+
+# Code Snippet
+
+> How to style a DROP CAP when punctuations are involved
+
+Lets go to Stackoverflow <https://stackoverflow.com/questions/66201871/how-to-style-a-drop-cap-when-punctuations-are-involved>
+
+```
+.has-dropcap:first-letter {
+  font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+  float: left;
+  font-size: 6rem;
+  line-height: 0.65;
+  margin: 0.1em 0.1em 0.2em 0;
+}
+```
+Lets go to Snippet source <https://css-tricks.com/snippets/css/drop-caps/>
+
+
+
 
 
 
