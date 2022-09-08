@@ -39,6 +39,7 @@ Rajiv Gandhi International Airport is closest to the Museum
  | Hyderabad | Charminar |  3 hours |
  | Mysore | Mysore Palace |  2 hours |
  | Bangalore | Wonderla | 4 hours | 
+ | Delhi | IndiaGate | 5 hours |
 
 
  *****
